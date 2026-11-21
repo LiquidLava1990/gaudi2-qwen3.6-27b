@@ -1,4 +1,6 @@
-# gaudi2-qwen3.6-27b
+# Qwen3.6-27B on Intel Gaudi 2 with vLLM (FP8)
+
+`gaudi2-qwen3.6-27b` · [all Gaudi 2 recipes](https://github.com/LiquidLava1990)
 
 Build recipes for serving Qwen3.6-27B-FP8 on Intel Gaudi 2 with vLLM and the vllm-gaudi plugin. The repo is a set of `.env` config files, one per experiment. Hardware: 8x Gaudi 2 HL-225 (96 GB each).
 
